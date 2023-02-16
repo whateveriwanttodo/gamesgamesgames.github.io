@@ -1,0 +1,25 @@
+h2{
+  text-align: right;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(0, 115, 255);
+}
+
+input{
+  text-align: start;
+  background: #fffbc7;
+  background: -moz-linear-gradient(top,#fffbc7 7%,#f2d70c 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(7%,#fffbc7),color-stop(100%,#f2d70c));
+  background: -webkit-linear-gradient(top,#fffbc7 7%,#f2d70c 100%);
+  background: -o-linear-gradient(top,#fffbc7 7%,#f2d70c 100%);
+  background: -ms-linear-gradient(top,#fffbc7 7%,#f2d70c 100%);
+  background: linear-gradient(to bottom,#fffbc7 7%,#f2d70c 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffbc7',endColorstr='#f2d70c',GradientType=0);
+  user-select: none;
+  color: #8a4100!important;
+  font-size: 13px;
+  padding: 4px 15px;
+  border: 1px solid #f4c800;
+  border-radius: 5px; 
+}
+
